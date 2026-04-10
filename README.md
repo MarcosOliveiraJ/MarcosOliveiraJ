@@ -1,4 +1,6 @@
-## Seja bem-vindo(a), meu nome é Marcos Oliveira.
+<div align="center">
+  
+<h1>Seja bem-vindo(a), meu nome é Marcos Oliveira</h1>
 
 Sou estudante do segundo semestre do tecnologo de ADS.
 
@@ -6,7 +8,7 @@ Sou estudante do segundo semestre do tecnologo de ADS.
 
 💬 contato: marcosoliveiradejesusjunior@gmail.com
 
-  <div aling="center">
+  <div align="center">
                 <img src="https://media1.tenor.com/m/DLPO5qmNUf8AAAAC/yi-xi-%E3%83%9E%E3%83%83%E3%83%86%E3%82%A4%E3%83%AB.gif" alt="">
    </div>
             
@@ -22,3 +24,4 @@ Sou estudante do segundo semestre do tecnologo de ADS.
 
 ---
   
+</div>
