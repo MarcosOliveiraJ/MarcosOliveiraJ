@@ -17,7 +17,6 @@ Sou estudante do segundo semestre do tecnologo de ADS.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ---
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+  <div>
+                <img src="https://media1.tenor.com/m/DLPO5qmNUf8AAAAC/yi-xi-%E3%83%9E%E3%83%83%E3%83%86%E3%82%A4%E3%83%AB.gif" alt="">
+            </div>
