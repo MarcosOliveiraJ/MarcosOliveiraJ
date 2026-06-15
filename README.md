@@ -9,7 +9,7 @@ Sou estudante do segundo semestre do tecnologo de ADS.
 💬 contato: marcosoliveiradejesusjunior@gmail.com
 
   <div align="center">
-                <img src="https://images.steamusercontent.com/ugc/13723628843470986124/C3C656F069F62812467BBAE99997B0B1D833E5BA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="">
+                <img src="https://c.tenor.com/x15ypNErQC8AAAAC/tenor.gif" alt="">
    </div>
             
 ---
