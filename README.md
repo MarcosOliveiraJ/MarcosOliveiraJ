@@ -8,7 +8,8 @@ Sou estudante do terceiro semestre do tecnologo de ADS, rumo a minha formação 
 💬 contato: marcosoliveiradejesusjunior@gmail.com
 
   <div align="center">
-                <img src="https://tenor.com/pt-BR/view/tm-opera-o-umamusume-aura-farmer-gif-15372114356195358534" alt="">
+                <img src="<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/956a0cc8-bcfb-4db3-94af-b72cf94e8526" />
+" alt="gif">
    </div>
             
 ---
