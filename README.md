@@ -1,15 +1,14 @@
 <div align="center">
   
-<h1>Seja bem-vindo(a), meu nome é Marcos Oliveira</h1>
+<h2>Seja bem-vindo(a)</h2>
 
-Sou estudante do segundo semestre do tecnologo de ADS.
+Sou estudante do terceiro semestre do tecnologo de ADS, rumo a minha formação como programador back-end.
 
-🔭 Estou desenvolvendo com meu grupo uma steck de gestão profissional.
 
 💬 contato: marcosoliveiradejesusjunior@gmail.com
 
   <div align="center">
-                <img src="https://c.tenor.com/x15ypNErQC8AAAAC/tenor.gif" alt="">
+                <img src="https://tenor.com/pt-BR/view/tm-opera-o-umamusume-aura-farmer-gif-15372114356195358534" alt="">
    </div>
             
 ---
