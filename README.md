@@ -2,8 +2,7 @@
   
 <h2>Seja bem-vindo(a) ao meu perfil.</h2>
 
-Sou estudante do terceiro semestre do tecnologo de ADS, rumo a minha formação como programador back-end.
-
+Sou estudante do terceiro semestre do tecnólogo de ADS, rumo à minha formação como programador back-end.
 
 💬 contato: marcosoliveiradejesusjunior@gmail.com
 
@@ -23,5 +22,12 @@ Sou estudante do terceiro semestre do tecnologo de ADS, rumo a minha formação 
 <code><img height="32" src="/assets/mysql.png" alt="MySQL"/></code>
 
 ---
-  
+
+## Estatísticas
+
+<div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveiraJ&show_icons=true&theme=radical" alt="Estatísticas do Marcos"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveiraJ&layout=donut" alt="Linguagens mais usadas pelo Marcos"/>
+</div>
+
 </div>
